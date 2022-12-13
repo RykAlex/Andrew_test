@@ -48,8 +48,8 @@ img {
 .company__icon {
   width: 24px;
   height: 24px;
-  -webkit-mask-image: url(/arrow-right.svg);
-  mask-image: url(/arrow-right.svg);
+  -webkit-mask-image: url(arrow-right.svg);
+  mask-image: url(arrow-right.svg);
   -webkit-mask-repeat: no-repeat;
   mask-repeat: no-repeat;
   -webkit-mask-size: cover;
